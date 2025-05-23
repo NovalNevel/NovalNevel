@@ -89,7 +89,6 @@ Here are some ideas to get you started:
 - 📚 Actively learning: **Flutter, Firebase, Tailwind CSS, REST API**
 - 🌱 I love to turn ideas into working code and clean UI
 - 🧠 Always improving my coding, design, and debugging skills
-- 📫 Contact me: **novalnevel@example.com**
 
 ---
 
@@ -143,12 +142,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎵 Favorite Learning Playlists
-- [Flutter & Dart - Build Apps from Scratch](https://youtube.com/playlist?list=PLrnPJCHvNZuAiHxgqr2bG5z4TntxtkSMz)
-- [React JS Crash Course - Traversy Media](https://youtu.be/w7ejDZ8SWv8)
-- [PHP & MySQL Beginner Course](https://youtu.be/OK_JCtrrv-c)
-
----
 
 ### 💬 Daily Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
