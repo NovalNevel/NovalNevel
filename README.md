@@ -81,6 +81,12 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;I+build+mobile+%26+web+apps;Flutter+%7C+Dart+%7C+React+%7C+PHP+%7C+MySQL" alt="Typing SVG" />
 </p>
 
+
+
+
+
+
+
 ---
 
 ### 👨‍💻 About Me
