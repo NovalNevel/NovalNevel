@@ -78,12 +78,8 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Passionate Flutter Developer | 💡 Tech Learner | 🎓 Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;I+build+mobile+%26+web+apps;Flutter+%7C+Dart+%7C+React+%7C+PHP+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+build+mobile+apps+using+Flutter;Also+love+React,+PHP+%26+MySQL" alt="Typing SVG" />
 </p>
-
-
-
-
 
 
 
