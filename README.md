@@ -81,7 +81,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtqNG50Z3dwdW50ZzJhbWp4ZGFjZjc3bmRiem93b3VwM3RxbTZ0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufnwz3wDUli7GU0/giphy.gif" width="400"/>
+</div>
 
 ---
 <!--
@@ -162,17 +164,33 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight&hide_title=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight&hide_title=true" alt="NovalNevel's GitHub Stats" />
 
----
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=NovalNevel&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<!-- Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovalNevel&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovalNevel&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NovalNevel&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NovalNevel&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NovalNevel&theme=tokyonight" alt="Productive Time" />
+
+</div>
+
+
+<!--
 ## 🐍 Contribution Snake
 
 ![GitHub Snake](https://github.com/NovalNevel/NovalNevel/blob/output/github-contribution-grid-snake.svg)
 
----
+--->
 
 ## 👀 Visitors
 
