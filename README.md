@@ -75,10 +75,10 @@ Here are some ideas to get you started:
 ---
 -->
 <h1 align="center">Hi 👋, I'm Noval</h1>
-<h3 align="center">🚀 Passionate Flutter Developer | 💡 Tech Learner | 🎓 Computer Science Student</h3>
+<h3 align="center"> <!--🚀 Passionate Flutter Developer | 💡 Tech Learner | -->🎓 Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+build+mobile+apps+using+Flutter;Also+love+React,+PHP+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 
@@ -167,6 +167,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovalNevel&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovalNevel&theme=radical" />
 </p>
 ---
 _⭐️ Keep learning, keep building. Let’s grow together!_
