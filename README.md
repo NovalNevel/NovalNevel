@@ -161,13 +161,22 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight)
+![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovalNevel&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovalNevel&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight)
+
 ---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://github.com/NovalNevel/NovalNevel/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=NovalNevel&color=blueviolet&style=flat)
+
+---
+
 _⭐️ Keep learning, keep building. Let’s grow together!_
