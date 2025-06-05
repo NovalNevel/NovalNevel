@@ -159,6 +159,7 @@ Here are some ideas to get you started:
 
 ---
 -->
+
 ## 📊 GitHub Stats
 
 ![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight&hide_title=true)
@@ -178,5 +179,9 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=NovalNevel&color=blueviolet&style=flat)
 
 ---
+
+> “The best way to learn is to build.” 🚧  
+> Keep exploring, keep coding!
+
 
 _⭐️ Keep learning, keep building. Let’s grow together!_
