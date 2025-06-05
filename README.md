@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ---
 -->
-<h1 align="center">Hi 👋, I'm Noval Nevel</h1>
+<h1 align="center">Hi 👋, I'm Noval</h1>
 <h3 align="center">🚀 Passionate Flutter Developer | 💡 Tech Learner | 🎓 Computer Science Student</h3>
 
 <p align="center">
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 
 ---
-
+<!--
 ### 👨‍💻 About Me
 - 🎯 Focused on full-stack mobile and web app development
 - 🛠 Currently building: **Al-Qur'an App**, **Student Management System**
@@ -158,5 +158,12 @@ Here are some ideas to get you started:
 </p>
 
 ---
+-->
+## 📊 GitHub Stats
 
+![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight)
+
+---
 _⭐️ Keep learning, keep building. Let’s grow together!_
