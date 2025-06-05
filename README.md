@@ -164,6 +164,9 @@ Here are some ideas to get you started:
 ![NovalNevel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NovalNevel&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovalNevel&theme=radical" width="48%" />
+</p>
 ---
 _⭐️ Keep learning, keep building. Let’s grow together!_
