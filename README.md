@@ -172,9 +172,9 @@ Here are some ideas to get you started:
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovalNevel&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies 
 <img src="https://github-profile-trophy.vercel.app/?username=NovalNevel&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
+ -->
 <!-- Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovalNevel&theme=tokyonight" alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovalNevel&theme=tokyonight" alt="Repos per Language" />
