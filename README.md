@@ -187,13 +187,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--
-## 🐍 Contribution Snake
-
-![GitHub Snake](https://github.com/NovalNevel/NovalNevel/blob/output/github-contribution-grid-snake.svg)
-
---->
-
 ## 👀 Visitors
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=NovalNevel&color=blueviolet&style=flat)
